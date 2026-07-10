@@ -1,6 +1,18 @@
 {
   "lista_de_conteudos": [
     {
+      "id": "1783697483951",
+      "nome": "Samurai 7",
+      "imagem": "https://cdn.myanimelist.net/images/anime/1190/95421l.jpg",
+      "tipo": "serie",
+      "status": "LEG",
+      "categorias": [
+        "Sci-Fi"
+      ],
+      "episodios": [],
+      "link": ""
+    },
+    {
       "id": "1783697466594",
       "nome": "Eyeshield 21",
       "imagem": "https://cdn.myanimelist.net/images/anime/1079/133529l.jpg",
