@@ -1,6 +1,19 @@
 {
   "lista_de_conteudos": [
     {
+      "id": "1783699036593",
+      "nome": "Yakitate!! Japan",
+      "imagem": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+      "tipo": "serie",
+      "status": "LEG",
+      "categorias": [
+        "Comedy",
+        "Gourmet"
+      ],
+      "episodios": [],
+      "link": ""
+    },
+    {
       "id": "1783698281209",
       "nome": "Gate Keepers",
       "imagem": "https://cdn.myanimelist.net/images/anime/12/15226l.jpg",
