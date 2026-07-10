@@ -34,7 +34,23 @@
       "categorias": [
         "Sports"
       ],
-      "episodios": [],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "link": "https://archive.org/download/m_20260709_202607/m.mp4"
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "link": "https://archive.org/download/m_20260709_202607/m.mp4"
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "link": "https://archive.org/download/m_20260709_202607/m.mp4"
+        }
+      ],
       "link": ""
     },
     {
