@@ -1,14 +1,6 @@
 {
   "lista_de_conteudos": [
     {
-      "nome": "Jujutsu Kaisen 0: O Filme",
-      "imagem": "https://link-da-imagem-do-poster.jpg",
-      "tipo": "filme",
-      "categorias": ["Ação", "Fantasia"],
-      "status": "DUB",
-      "link": "https://archive.org/download/snapsave-app_2488248881596975_hd/snapsave-app_2488248881596975_hd.mp4"
-    }
-    {
       "id": "1783700230016",
       "nome": "Initial D Fourth Stage",
       "imagem": "https://cdn.myanimelist.net/images/anime/9/10521l.jpg",
