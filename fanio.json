@@ -1,6 +1,26 @@
 {
   "lista_de_conteudos": [
     {
+      "id": "1783943815518",
+      "nome": "Avenger",
+      "imagem": "https://cdn.myanimelist.net/images/anime/1112/154871l.jpg",
+      "tipo": "serie",
+      "status": "LEG",
+      "categorias": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "link": "https://drive.google.com/file/d/1TIbhHRmc701TSnxAZNEBlpyXBuG-eZeI/view?usp=drivesdk"
+        }
+      ],
+      "link": ""
+    },
+    {
       "id": "1783786248458",
       "nome": "Mai-HiME",
       "imagem": "https://cdn.myanimelist.net/images/anime/13/7226l.jpg",
