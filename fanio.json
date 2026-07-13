@@ -1,6 +1,28 @@
 {
   "lista_de_conteudos": [
     {
+      "id": "1783982830924",
+      "nome": "Chobits",
+      "imagem": "https://cdn.myanimelist.net/images/anime/4/24648l.jpg",
+      "tipo": "serie",
+      "status": "LEG",
+      "categorias": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Ecchi"
+      ],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "link": "https://drive.google.com/file/d/1cQPTW97Smt1qo421S9O7U3TLHEbyAbWf/preview"
+        }
+      ],
+      "link": ""
+    },
+    {
       "id": "1783943815518",
       "nome": "Avenger",
       "imagem": "https://cdn.myanimelist.net/images/anime/1112/154871l.jpg",
